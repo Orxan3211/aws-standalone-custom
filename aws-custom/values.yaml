@@ -1,5 +1,5 @@
 # Cluster parameters
-controlPlaneNumber: 3
+controlPlaneNumber: 1
 workersNumber: 2
 
 clusterNetwork:
