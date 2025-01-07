@@ -1,6 +1,6 @@
 # Cluster parameters
-controlPlaneNumber: 1
-workersNumber: 2
+controlPlaneNumber: 2
+workersNumber: 3
 
 clusterNetwork:
   pods:
